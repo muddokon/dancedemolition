@@ -1,4 +1,4 @@
-# dancedemolition
+# DanceDemolition
 Dance Demolition Videogame for Global Game Jam 2017
 
 Visit project site: http://applicate.co/dancedemolition
